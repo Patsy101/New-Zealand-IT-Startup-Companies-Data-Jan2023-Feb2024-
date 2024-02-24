@@ -1,4 +1,4 @@
-# 🚀 New Zealand IT Startup Companies Data (2023-2024) 🇳🇿
+# 🚀 New Zealand IT Startup Companies Data (Jan2023-Feb2024) 🇳🇿
 
 This repository contains a list of IT startup companies in New Zealand for the years 2023 and 2024, obtained through an Official Information Act request to the Ministry of Business, Innovation and Employment (MBIE). The public request can be viewed [here](https://fyi.org.nz/request/25622-request-for-information-on-it-startup-companies-in-new-zealand-2023-2024).
 
