@@ -23,9 +23,11 @@ Only companies that provided their BIC code are included.
 -Companies with multiple BIC codes appear multiple times.
 -Only publicly available information from the companies register is included.
 -Some information has been withheld under section 9(2)(a) of the Act to protect privacy.
--Obtaining the Data
+
+
 
 The provided data can be found in the attached file https://fyi.org.nz/request/25622-request-for-information-on-it-startup-companies-in-new-zealand-2023-2024 .
+
 
 Additional Resources
 For similar information requests or data services, visit the Companies Office’s Data Services page https://www.companiesoffice.govt.nz/data-services/contact/.
